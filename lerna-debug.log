@@ -1,4 +1,4 @@
-43 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin main
-43 error 致命错误：无法访问 'https://github.com/PBHAHAHA/pubing-cli.git/'：LibreSSL SSL_read: error:02FFF03C:system library:func(4095):Operation timed out, errno 60
-43 error     at makeError (/Users/pub/Desktop/CodeSpace/frontend/脚手架/pubing-cli/node_modules/execa/lib/error.js:60:11)
-43 error     at handlePromise (/Users/pub/Desktop/CodeSpace/frontend/脚手架/pubing-cli/node_modules/execa/index.js:118:26)
+50 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin main
+50 error 致命错误：无法访问 'https://github.com/PBHAHAHA/pubing-cli.git/'：LibreSSL SSL_read: error:02FFF03C:system library:func(4095):Operation timed out, errno 60
+50 error     at makeError (/Users/pub/Desktop/CodeSpace/frontend/脚手架/pubing-cli/node_modules/execa/lib/error.js:60:11)
+50 error     at handlePromise (/Users/pub/Desktop/CodeSpace/frontend/脚手架/pubing-cli/node_modules/execa/index.js:118:26)
