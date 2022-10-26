@@ -1,6 +1,6 @@
 {
   "name": "@pubing-cli/core",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "PBHAHAHA <314709923@qq.com>",
   "homepage": "https://github.com/PBHAHAHA/pubing-cli/tree/main/packages/core#readme",
@@ -28,5 +28,6 @@
   },
   "bugs": {
     "url": "https://github.com/PBHAHAHA/pubing-cli/issues"
-  }
+  },
+  "gitHead": "5b2bbe9c8e2e5d92433f7209d0e43e65dec050b2"
 }
